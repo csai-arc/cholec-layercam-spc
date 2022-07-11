@@ -19,7 +19,9 @@ Utilized inference architecture overview is given here.
 ### Results:
 
 Sample results on cholecystectomy is given below:
-Performance of our model on Cholecystectomy Surgery video: 66 of Cholec80 dataset. (a) Illustrates Surgical tool usage frequency vs surgical phases. (b)-(h) Illustrates spatial context awareness of various surgical phases as performed by our proposed model
+ 
+Performance of our model on Cholecystectomy Surgery video: 66 of Cholec80 dataset. (a) Illustrates Surgical tool usage frequency vs surgical phases. (b)-(h) Illustrates spatial context awareness of various surgical phases as performed by our proposed model.
+ 
 <img src="/images/surgery_analysis.png?" width="70%" >
 
 Confusion matrix of surgical phase classification on cholec80 dataset is given below:
