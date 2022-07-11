@@ -11,10 +11,10 @@ This package supports Imagefolder data format. To initiate the training, please 
 ### Architecture Overview:
 
 Utilized end to end encoder-decoder training architecture overview is given here.
-<img src="/images/train_flow.PNG?" width="90%" >
+<img src="/images/train_flow.png?" width="90%" >
   
 Utilized inference architecture overview is given here.
-<img src="/images/infer_flow.PNG?" width="90%" >
+<img src="/images/infer_flow.png?" width="90%" >
 
 ### Results:
 
