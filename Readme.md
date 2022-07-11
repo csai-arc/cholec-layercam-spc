@@ -28,7 +28,7 @@ Confusion matrix of surgical phase classification on cholec80 dataset is given b
 <img src="/images/confusion_matrix.png?" width="70%" >
 
 Surgical Phase vs time plot is given below:
-<img src="/evaluation_results/ribbon_plots.png?" width="70%" >
+<img src="/images/ribbon_plots.png?" width="70%" >
 
 
 
