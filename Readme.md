@@ -8,6 +8,12 @@ This package supports Imagefolder data format. To initiate the training, please 
 
  > python classification_training_layercam.py -a effnetv2_s --data <path to data> --epochs 5 --gpu-id 0 -c <path where checkpoints to be saved> --train-batch 10 --test-batch 1 --weights_load <path to pretrained weights> --optuna_study_db sqlite:///./<path where optuna db to be saved>
  
+### Inference:
+
+This package takes RGB images as input. To initiate the inference, please use the below command.
+
+ > python spr_application_layercam_multilayer.py --cfg cfg/configuration_layercam_multilayer_cam.yaml --mode 1 --eval_mode 1
+ 
 ### Architecture Overview:
 
 Utilized end to end encoder-decoder training architecture overview is given here.
